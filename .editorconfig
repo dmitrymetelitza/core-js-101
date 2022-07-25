@@ -7,6 +7,7 @@ indent_size = 2
 end_of_line = lf
 trim_trailing_whitespace = true
 insert_final_newline = true
+cpp_wrap_preserve_blocks = one_liners
 
 [*.js]
 quote_type = single
